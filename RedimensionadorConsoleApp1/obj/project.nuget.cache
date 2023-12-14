@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Uh/d7aKTDqEz/k0yEcmzZ2mxfmx9+oUdDuQUu4eGAkxyfeAvk504S92QrKocwlVj89za5fHDi5TvpyK0YSIUVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jeffl\\Documents\\RepositoriosGit\\RedimensionadorConsoleApp1\\RedimensionadorConsoleApp1\\RedimensionadorConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffl\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\jeffl\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
